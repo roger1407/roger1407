@@ -1,14 +1,28 @@
-<h1 align="left">olá, meu nome é rogério</h1>
+ ### <h1 align="left">olá, meu nome é rogério</h1>
+ <h4>Bem vindo ao meu github..</h4>
 
-###
+ <h3>um pouco sobre mim</h3>
+  <h5>°brasileiro</h5>
+  <h5>°pai de uma princesa de 3 anos</h5>
+  <h5>°27 anos </h5>
+  <h5>°atualmente estou focado em ser um bom desenvolvedor front-end</h5>
+  
+  
+### Estou trabalhando
+<h5>°projetos pessoais</h5>
+<h5>°cases de pequenos projetos</h5>
+<h5>°personalizando o meu portifolio de front-end</h5>
+<h5>°trabalhando nas plataformas freelancer como desenvolvedor web</h5>
 
-<h2 align="left">Estudando: JavaScripts - desenvolvedor front-end</h2>
+### <h2 align="left">Estudando</h2> 
+<h4>°JavaScripts<h4>
+<h4>°React.js<h4>
 
-###
 
-<h3 align="left">tecnologias</h3>
+  
+### <h3 align="left">linguagens e bibliotecas </h3>
 
-###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
