@@ -10,7 +10,7 @@
   
 ### Estou trabalhando
 <h5>°projetos pessoais</h5>
-<h5>°cases de pequenos projetos</h5>
+<h5>°casos de pequenos projetos</h5>
 <h5>°personalizando o meu portifolio de front-end</h5>
 <h5>°trabalhando nas plataformas freelancer como desenvolvedor web</h5>
 
