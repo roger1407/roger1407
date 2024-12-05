@@ -3,7 +3,6 @@
 
  <h3>um pouco sobre mim</h3>
   <h5>°brasileiro</h5>
-  <h5>°pai de uma princesa de 3 anos</h5>
   <h5>°27 anos </h5>
   <h5>°atualmente estou focado em ser um bom desenvolvedor front-end</h5>
   
