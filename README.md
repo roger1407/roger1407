@@ -1,4 +1,4 @@
- ### <h1 align="left">olá, meu nome é rogério</h1>
+ ### <h1 align="left">Olá, meu nome é Rogério</h1>
  <h4>Bem vindo ao meu github..</h4>
 
  <h3>um pouco sobre mim</h3>
